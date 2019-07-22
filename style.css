@@ -1,0 +1,9 @@
+body {
+	/*font-family: 'Ubuntu', sans-serif;*/
+	background-image: url(ex.jpg);
+	background-size: cover;
+}
+
+.btn-primary {
+	align-items: center;
+}
